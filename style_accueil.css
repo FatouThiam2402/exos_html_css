@@ -1,3 +1,7 @@
+tbody{
+	background-image: url("sonatel_academy1.png");
+}
+
 #bgimage{
 position: absolute;
 	margin-left: 200px;
@@ -6,8 +10,8 @@ position: absolute;
 
 .lesTPs{
 	position: absolute;
-	top: 50px;
-	margin-left: 400px;
+	top: 70px;
+	margin-left: 650px;
 }
 
 button{
@@ -35,17 +39,17 @@ a{
 #bgimage1{
 
 	position: absolute;
-	top:0px;
-	margin-left: 1060px;
+	top:5px;
+	margin-left: 1670px;
 }
 
 .left{
 	background-color: black;
 	border: solid;
-	left: 10px;
+	left: 0px;
 	top: 10px;
-	width: 200px;
-	height: 600px;
+	width: 210px;
+	height: 1000px;
 	position: absolute;
 }
 .left img {
@@ -64,7 +68,8 @@ a{
 }
 .htmlcss{
 	position: absolute;
-	top: 450px;
+	top: 770px;
 	margin-left: 220px;
 	font-weight: bold;
+	font-size:20px;
 }
