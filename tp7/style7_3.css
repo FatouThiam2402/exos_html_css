@@ -1,0 +1,101 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: poppins;
+}
+
+
+
+.header{
+	background-color: #0F056B;
+	height: 170px;
+	width: 1150px;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+#id_ioc{
+	font-weight: bold;
+	text-align:center ;
+	font-size: 50px;
+	color: white ;
+
+}
+#phrase{
+	color: white;
+	position: absolute;
+	top: 90px;
+	margin-left: 370px;
+}
+#button{
+	border: salmon;
+	margin-left: 550px;
+	background-color: purple;
+	top: 140px;
+	position: absolute;
+	font-size: 20px;
+}
+.texte{
+	top: 120px;
+	margin-left: 350px;
+}
+
+.contener{
+	
+	width: 700px;
+	height: 400px;
+	margin-left: 250px;
+	position: absolute;
+	top: 50px;
+
+
+}
+
+
+button{
+	border-color: violet;
+	background-color: violet;
+	color: white;
+}
+
+.signUp{
+	background-color: darkblue;
+	width: 500px;
+	height: 60px;
+	top: 10px;
+	margin-left: 70px;
+
+}
+
+#signUpText{
+	color: white;
+	position: absolute;
+	margin-left: 90px;
+	top: 20px;
+	
+}
+
+.form{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left:0 ;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background: rgba(77, 77, 77, 0.7);
+	transition: all 0.4s;
+}
+.from:target{
+	visibility: visible;
+	opacity: 1;
+}
+.formcontent{
+	position: relative;
+	background: red;
+	width: 500px;
+	border-radius: 4px;
+	padding: 1em 2em;
+
+}

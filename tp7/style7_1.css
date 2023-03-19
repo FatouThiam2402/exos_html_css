@@ -1,0 +1,37 @@
+/* le CSS de l'etat 1 */
+.header{
+	background-color: #0F056B;
+	height: 170px;
+	width: 1150px;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+#id_ioc{
+	font-weight: bold;
+	text-align:center ;
+	font-size: 50px;
+	color: white ;
+
+}
+#phrase{
+	color: white;
+	position: absolute;
+	top: 90px;
+	margin-left: 370px;
+}
+#button{
+	border: salmon;
+	margin-left: 560px;
+	background-color: purple;
+	top: 140px;
+	position: absolute;
+	font-size: 20px;
+	color: white;
+}
+.texte{
+	top: 120px;
+	margin-left: 350px;
+}
+
+/* le CSS de l'etat 2 */

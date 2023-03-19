@@ -1,0 +1,63 @@
+
+.header{
+	background-color: #0F056B;
+	height: 170px;
+	width: 1200px;
+	margin-left: 130px;
+	top: 30px;
+	position: absolute;
+
+}
+#id_ioc{
+	font-weight: bold;
+	text-align:center ;
+	font-size: 50px;
+	color: white ;
+
+}
+#phrase{
+	color: white;
+	position: absolute;
+	top: 90px;
+	margin-left: 300px;
+}
+#button{
+	border: salmon;
+	margin-left: 520px;
+	background-color: purple;
+	top: 140px;
+	position: absolute;
+	font-size: 20px;
+	color: white;
+}
+.texte{
+	top: 200px;
+	margin-left: 400px;
+	position: absolute;
+}
+
+.left{
+	background-color: #0F056B;
+	border: solid;
+	left: 10px;
+	top: 30px;
+	width: 130px;
+	height: 800px;
+	position: absolute;
+}
+
+.options{
+	
+	top: 100px;
+	color: white;
+	position: absolute;
+	margin-left: 10px;
+}
+
+img{
+	position: absolute;
+	border-radius: 70px;
+	top: 20px;
+	height: 70px;
+	width: 110px;
+}
