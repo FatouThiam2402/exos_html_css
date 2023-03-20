@@ -2,9 +2,11 @@
 .header{
 	background-color: #0F056B;
 	height: 170px;
-	width: 1150px;
+	width: 1800px;
 	margin-right: 20px;
-	margin-left: 20px;
+	margin-left: auto;
+	text-align: center;
+
 
 }
 #id_ioc{
@@ -18,20 +20,41 @@
 	color: white;
 	position: absolute;
 	top: 90px;
-	margin-left: 370px;
+	margin-left: 33%;
 }
 #button{
+	height: 5%;
+	width: 5%;
 	border: salmon;
-	margin-left: 560px;
 	background-color: purple;
 	top: 140px;
 	position: absolute;
 	font-size: 20px;
 	color: white;
+	border-radius:10%;
+	margin-left: -3%;
 }
 .texte{
 	top: 120px;
-	margin-left: 350px;
+	margin-left: 25%;
 }
 
 /* le CSS de l'etat 2 */
+.icon{
+	background-color: rgba(39, 35, 35, 0.5);
+	width: 60px;
+  	height: 60px;
+	align-items: center;
+  font-size: 40px;
+  color: aliceblue;
+  margin-top: -70px;
+  margin-left: 20px;
+  border-radius: 5px;
+ 
+ 
+ 
+
+}
+
+
+  
