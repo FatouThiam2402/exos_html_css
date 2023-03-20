@@ -73,3 +73,17 @@ a{
 	font-weight: bold;
 	font-size:20px;
 }
+
+.Sonatel_academie{
+
+	position: absolute;
+	top :800px;
+	color: white;
+	margin-left: 10px;
+}
+.dev_data{
+	position: absolute;
+	top :900px;
+	color: white;
+	margin-left: 10px;
+}

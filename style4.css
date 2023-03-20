@@ -1,6 +1,6 @@
 .bgPrincipal{
 	background-color:moccasin;
-	height: 800px;
+	height: 900px;
 	margin-right: 210px;
 	margin-left: 150px;
 
@@ -11,7 +11,7 @@
 	border: solid;
 	border-color: purple;
 	text-align: center;
-	font-size: 60px;
+	font-size: 50px;
 	margin-right: 100px;
 	margin-left: 200px;
 	height: 140px;
@@ -23,7 +23,6 @@
 
 .bgagens{
 	background-color: orange;
-	text-color: yellow;
 	border: solid;
 	color: blue;
 	height: 40px;
