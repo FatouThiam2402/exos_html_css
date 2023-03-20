@@ -1,15 +1,17 @@
 body{
 	z-index: -1;
+	background-color: rgba(0, 0, 0, 0.5);
 }
 
 
 .header{
-	background-color: #0F056B;
+	background-color: #0d083a;
 	height: 170px;
 	width: 2250px;
 	margin-right: 20px;
 	margin-left: auto;
 	text-align: center;
+
 }
 #id_ioc{
 	font-weight: bold;
